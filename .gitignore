@@ -1,13 +1,7 @@
-synthesis
 slurmlog
 out
-archived/data
-teaser/raw
-*.tar.gz
-*.zip
 archived
 hands
 *pycache*
 .vscode
 thirdparty/pytorch3d/
-*.html
