@@ -13,6 +13,7 @@ obj_list=("bulb" "camera" "cube" "cylinder" "duck" "knob" "mouse" "pear")
 python run.py --object_models duck cylinder --seed 42 --batch_size 1024 --tag demo
 
 # Large-scale synthesis
+
 # for i ((i=0; i<8; i++))
 # do
 #     for ((j=i; j<8; j++))
