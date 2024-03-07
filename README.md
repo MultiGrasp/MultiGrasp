@@ -100,25 +100,7 @@ Use `filter.py` to filter the result to remove bad samples and visualize the fin
 2. Run `python filter.py`. You can adjust the filter thresholds in the code (`XXX_thres`).
 3. Go to folders of each synthesis to check the visualization.
 
-You can see the grasps as HTML files: [example 1](synthesis/shadowhand/2024-03/07/23-50-59_duck+cylinder-seed_42-demo/plot/19_e27c7097-3583-4c5e-a972-7fe87626c3d5.html), [example 2](synthesis/shadowhand/2024-03/07/23-50-59_duck+cylinder-seed_42-demo/plot/25_6256ae75-c404-4dbf-9a01-6050d7232f2c.html)
-
-<div>
-  <iframe id="example_1"
-      title="Grasp Example 1"
-      width="100%"
-      src="synthesis/shadowhand/2024-03/07/23-50-59_duck+cylinder-seed_42-demo/plot/19_e27c7097-3583-4c5e-a972-7fe87626c3d5.html">
-  </iframe>
-</div>
-
-<div>
-  <iframe id="example_1"
-      title="Grasp Example 1"
-      width="100%"
-      src="synthesis/shadowhand/2024-03/07/23-50-59_duck+cylinder-seed_42-demo/plot/25_6256ae75-c404-4dbf-9a01-6050d7232f2c.html">
-  </iframe>
-</div>
-
-Also a histogram for the synthesis results:
+You can see the grasps as HTML files ([example 1](synthesis/shadowhand/2024-03/07/23-50-59_duck+cylinder-seed_42-demo/plot/19_e27c7097-3583-4c5e-a972-7fe87626c3d5.html), [example 2](synthesis/shadowhand/2024-03/07/23-50-59_duck+cylinder-seed_42-demo/plot/25_6256ae75-c404-4dbf-9a01-6050d7232f2c.html)), and also a histogram for the synthesis results:
 
 ![Statistics](synthesis/shadowhand/2024-03/07/23-50-59_duck+cylinder-seed_42-demo/stat.png)
 
