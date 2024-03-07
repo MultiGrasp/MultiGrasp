@@ -1,0 +1,17 @@
+{
+    "bulb": "bulb/bulb.stl",
+    "camera": "camera/camera.stl",
+    "cube": "cube/cube.stl",
+    "cube_small": "cube_small/cube_small.stl",
+    "cylinder": "cylinder/cylinder.stl",
+    "duck": "duck/duck.stl",
+    "knob": "knob/knob.stl",
+    "mouse": "mouse/mouse.stl",
+    "pear": "pear/pear.stl",
+    "sphere": "sphere/sphere.stl",
+    "lemon": "lemon/lemon.stl",
+    "train": "train/train.stl",
+    "controller": "controller/controller.stl",
+    "bottle": "bottle/bottle.stl",
+    "strawberry": "strawberry/strawberry.stl"
+}

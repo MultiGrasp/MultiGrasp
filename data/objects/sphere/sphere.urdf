@@ -1,0 +1,21 @@
+
+<?xml version="1.0" ?>
+<robot name="sphere">
+  <link name="base_link">
+    <visual>
+      <origin xyz="0.0 0.0 0.0"/>
+      <geometry>
+        <mesh filename="sphere.stl" scale="1.0 1.0 1.0"/>
+      </geometry>
+    </visual>
+    <collision>
+      <origin xyz="0.0 0.0 0.0"/>
+      <geometry>
+        <mesh filename="icosphere_subdiv.stl" scale="1.0 1.0 1.0"/>
+        <!-- <mesh filename="sphere.stl" scale="1.0 1.0 1.0"/> -->
+      </geometry>
+    </collision>
+  </link>
+</robot>
+
+  

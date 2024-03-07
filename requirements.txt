@@ -1,0 +1,16 @@
+torch==2.0.1
+torchvision
+loguru
+matplotlib
+numpy
+open3d
+pandas
+Pillow
+plotly
+seaborn
+skimage
+tensorboardX
+tqdm==4.66.2
+transformations
+transforms3d
+trimesh
