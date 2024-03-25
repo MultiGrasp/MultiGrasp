@@ -1,6 +1,5 @@
 # Grasp Multiple Objects with One Hand
 
-
 [Yuyang Li](https://yuyangli.com/),
 [Bo Liu](https://benjamin-eecs.github.io/),
 [Yiran Geng](https://https//gengyiran.github.io),
@@ -10,13 +9,27 @@
 [Tengyu Liu](https://tengyu.ai),
 [Siyuan Huang](https://siyuanhuang.com/)
 
-IEEE Robotics and Automation Letters (RA-L), accepted: Feburary 2024.
-
 <p align="left">
     <a href='https://multigrasp.github.io/'>
       <img src='https://img.shields.io/badge/Project-Page-blue?style=plastic&logo=Google%20chrome&logoColor=blue' alt='Project Page'>
     </a>
 </p>
+
+Published in IEEE Robotics and Automation Letters (Volume: 9, Issue: 5, May 2024).
+
+```bibtex
+@article{li2024grasp,
+    author={Li, Yuyang and Liu, Bo and Geng, Yiran and Li, Puhao and Yang, Yaodong and Zhu, Yixin and Liu, Tengyu and
+    Huang, Siyuan},
+    title={Grasp Multiple Objects with One Hand},
+    journal={IEEE Robotics and Automation Letters},
+    volume={9},
+    number={5},
+    pages={4027-4034},
+    year={2024},
+    doi={10.1109/LRA.2024.3374190}
+}
+```
 
 ![MultiGrasp Teaser](assets/Teaser.png)
 
