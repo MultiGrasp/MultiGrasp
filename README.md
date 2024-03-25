@@ -15,23 +15,9 @@
     </a>
 </p>
 
-Published in IEEE Robotics and Automation Letters (Volume: 9, Issue: 5, May 2024).
-
-```bibtex
-@article{li2024grasp,
-    author={Li, Yuyang and Liu, Bo and Geng, Yiran and Li, Puhao and Yang, Yaodong and Zhu, Yixin and Liu, Tengyu and
-    Huang, Siyuan},
-    title={Grasp Multiple Objects with One Hand},
-    journal={IEEE Robotics and Automation Letters},
-    volume={9},
-    number={5},
-    pages={4027-4034},
-    year={2024},
-    doi={10.1109/LRA.2024.3374190}
-}
-```
-
 ![MultiGrasp Teaser](assets/Teaser.png)
+
+Published in IEEE Robotics and Automation Letters (Volume: 9, Issue: 5, May 2024).
 
 ## Multi-Object Grasp Synthesis
 
@@ -140,3 +126,21 @@ To use your object, you need to train an overfitted Signed Distance Field for it
     ```
 4. (TBD) Prepare table-top stable orientations. We use PyBullet to simulate random drops of the objects and collect and merge their stable rotations on the table. Results are in `drop_rot_filtered_new.json`. We will update guides for this soon :D
 5. Synthesize by specifying the object with the label like `torus`.
+
+## Citation
+
+If you find this work useful, please consider citing it:
+
+```bibtex
+@article{li2024grasp,
+    author={Li, Yuyang and Liu, Bo and Geng, Yiran and Li, Puhao and Yang, Yaodong and Zhu, Yixin and Liu, Tengyu and
+    Huang, Siyuan},
+    title={Grasp Multiple Objects with One Hand},
+    journal={IEEE Robotics and Automation Letters},
+    volume={9},
+    number={5},
+    pages={4027-4034},
+    year={2024},
+    doi={10.1109/LRA.2024.3374190}
+}
+```
